@@ -44,4 +44,3 @@ for symbol in symbols:
                 writer.writerow(row)
 
 print("Data processing completed.")
-print("Hello world")
