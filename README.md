@@ -1,6 +1,6 @@
 **Parsing cryptocurrency info by symbols**
 
-How to use:
+**How to use:**
 
 1. Clone repo:
 
